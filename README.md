@@ -40,7 +40,7 @@ El software funciona como un pipeline analítico secuencial que transforma datos
 4. **Interpretación:** Revise los gráficos de salida y los reportes de métricas para evaluar la precisión del modelo entrenado y su relevancia con los objetivos del negocio.
 
 ## 👥 Desarrollador
-Este sistema fue desarrollado íntegramente por:
+Este sistema fue desarrollado por:
 * **Ramirez Cardenas Luis Armando**
 * **Contacto:** https://www.linkedin.com/in/luis-armando-ramirez-cardenas-53712035b/
 * Todo el flujo de ciencia de datos, el análisis exploratorio, el preprocesamiento de variables, el diseño de la lógica del modelo y la optimización de los algoritmos de Machine Learning fueron construidos desde cero por mi cuenta para ofrecer una solución predictiva funcional y orientada a la toma de decisiones empresariales.
