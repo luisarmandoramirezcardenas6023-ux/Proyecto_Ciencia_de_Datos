@@ -1,6 +1,6 @@
 # 📈 Proyecto de Ciencia de Datos: Predicción de Fuga de Clientes (Churn Rate)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1eJn7Od1yLuUcJcmmDy4MFfBrD_kqappQ?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1eJn7Od1yLuUcJcmmDy4MFfBrD_kqappQ?usp=sharing) ← **Haz clic aquí para ejecutar el cuaderno interactivo en tiempo real.**
 
 Este repositorio contiene una solución analítica integral desarrollada en Python para la predicción y análisis de la pérdida de clientes (Churn Rate). El sistema procesa perfiles de usuarios mediante técnicas avanzadas de ciencia de datos y entrena modelos de Machine Learning para identificar comportamientos de riesgo, transformando métricas estadísticas en estrategias óptimas de retención y rentabilidad para el negocio.
 
